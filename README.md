@@ -13,9 +13,9 @@ HTML – Page structure
 CSS – Styling & design
 JavaScript – Calculator logic
 🔗 Live Demo
-👉 Live URL: (Paste your GitHub Pages link here)
+👉 Live URL: (https://github.com/ShivaniRadha/modern-calculator/deployments/github-pages)
 Example:
-https://yourusername.github.io/calculator/
+https://shivaniradha.github.io/modern-calculator/r/
 📂 Project Files
 index.html  
 style.css  
