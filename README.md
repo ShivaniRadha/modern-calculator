@@ -1,4 +1,4 @@
-                                                                             🧮 Modern Responsive Calculator
+                                                                       🧮 Modern Responsive Calculator
 ## 📌 Description
 - Simple and responsive calculator web app  
 - Built using HTML, CSS, and JavaScript  
